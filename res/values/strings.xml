@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">NoRefreshEnabler</string>
+    <string name="hello">No-refresh should be activated now</string>
+    <string name="hello2">No-refresh should be activated now</string>
+</resources>
