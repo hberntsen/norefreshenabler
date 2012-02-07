@@ -1,6 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="app_name">NoRefreshEnabler</string>
-    <string name="hello">No-refresh should be activated now</string>
-    <string name="hello2">No-refresh should be activated now</string>
+    <string name="hello">NoRefreshEnabler</string>
+    <string name="app_name">Refresh mode switcher</string>
+    <string name="app_name_directnorefresh">Activate no-refresh mode</string>
+    <string name="app_name_directrefresh">Activate default refresh mode</string>
+    
 </resources>
